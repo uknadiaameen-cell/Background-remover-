@@ -1,0 +1,5 @@
+{
+  "name": "PureCut Background Remover",
+  "description": "Professional-grade background removal using Gemini AI. Upload any image and get a clean cutout in seconds.",
+  "requestFramePermissions": []
+}
